@@ -1,0 +1,11 @@
+.section {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+  font-size: 20px;
+  width: 400px;
+  border: 1px solid red;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: center;
+  background-color: aquamarine;
+}

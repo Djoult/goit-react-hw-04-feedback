@@ -1,0 +1,15 @@
+.controls {
+  display: inline-block;
+  text-align: center;
+  font-family: inherit;
+  cursor: pointer;
+  color: inherit;
+  border-color: transparent;
+  border: 2px solid;
+  border-radius: 10px;
+  transition: transform 150ms ease-in;
+}
+.controls:hover,
+.controls:focus {
+  transform: scale(1.1);
+}
