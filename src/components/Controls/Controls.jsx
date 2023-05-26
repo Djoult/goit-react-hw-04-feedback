@@ -9,7 +9,7 @@ function Controls({ options, onLeaveFeedBack }) {
           <button
             type="button"
             key={option}
-            class={css.controls}
+            className={css.controls}
             onClick={() => onLeaveFeedBack(option)}
           >
             {option}
